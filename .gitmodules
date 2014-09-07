@@ -1,3 +1,12 @@
 [submodule "OCKit"]
 	path = OCKit
 	url = https://github.com/hpsoar/OCKit.git
+[submodule "HNKit"]
+	path = HNKit
+	url = https://github.com/Xuzz/HNKit.git
+[submodule "nimbus"]
+	path = nimbus
+	url = https://github.com/jverkoey/nimbus.git
+[submodule "AFNetworking"]
+	path = AFNetworking
+	url = https://github.com/AFNetworking/AFNetworking.git
